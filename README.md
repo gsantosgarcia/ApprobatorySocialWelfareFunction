@@ -1,0 +1,1 @@
+According to the manuscript “The approbatory social welfare function: First results” by Santos-Garcia and JCR Alcantud, the following Mathematica code reports the exact number of preference-approval structures, as a function of $n$ and $a$, i.e., of the cardinalities of both $X$ and the approved alternatives $A$.
